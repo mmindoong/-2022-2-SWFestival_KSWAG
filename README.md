@@ -8,7 +8,8 @@
 </br>
 <div align="center"> (타이틀 사진) </div>
 
-</br>
+- 🎥 [게임 Demo 보러가기]
+- 🎮 [게임 소개 Notion 보러가기](https://www.notion.so/3c55b62f401e41a29a60dc6bb9c266d8)
 
 
 # 📁 개요 ➖
@@ -36,5 +37,11 @@ __f. 플랫폼__
 * `Blender`
 * `Perforce`
 
+# 🔧 게임 시작 ➖
+`.exe` 파일 실행
+
 # 🕹 조작법 ➖
+
+
+# 📌 구현 시스템 ➖
 
