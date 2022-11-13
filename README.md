@@ -8,7 +8,7 @@
 ![finaltitle](https://user-images.githubusercontent.com/70145314/201518339-78b8d0d9-c78c-4a76-b23d-2956e329ccd9.png) 
 
 
-- 🎥 [게임 Demo 보러가기]
+- 🎥 [게임 Demo 보러가기](https://youtu.be/_UB4R-etXuI)
 - 🎮 [게임 소개 Notion 보러가기](https://www.notion.so/3c55b62f401e41a29a60dc6bb9c266d8)
 
 
