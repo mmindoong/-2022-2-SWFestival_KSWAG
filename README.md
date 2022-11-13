@@ -5,8 +5,8 @@
 <img src=https://img.shields.io/badge/SWFestival-%F0%9F%92%97-orange?style=plastic&logo=appveyor/></div>
 <div align="center">2022 SW Festival Joseon DarkSoul 3D Action Game</div>
 
-</br>
-<div align="center"> (타이틀 사진) </div>
+![finaltitle](https://user-images.githubusercontent.com/70145314/201518339-78b8d0d9-c78c-4a76-b23d-2956e329ccd9.png) 
+
 
 - 🎥 [게임 Demo 보러가기]
 - 🎮 [게임 소개 Notion 보러가기](https://www.notion.so/3c55b62f401e41a29a60dc6bb9c266d8)
@@ -41,6 +41,15 @@ __f. 플랫폼__
 `.exe` 파일 실행
 
 # 🕹 조작법 ➖
+* 공격키 - `Left Mouse Button`
+* 방어,반격 - `Right Mouse Button`
+* 대시 - `Left Shift`
+* 앉아서 걷기 - `Left Ctrl`
+* 점프 - `F`
+* 회피(구르기) - `Space Bar`
+* 스킬 - `1,2,3,4,5,6`
+* 인벤토리 - `Tab`
+* 상호작용 - `G`
 
 
 # 📌 구현 시스템 ➖
