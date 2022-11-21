@@ -3,13 +3,14 @@
 <img src=https://img.shields.io/badge/Unreal-5.0-yellow?style=plastic&logo=appveyor/>
 <img src=https://img.shields.io/badge/madeby-K--SWAG-blue?style=plastic&logo=appveyor/>
 <img src=https://img.shields.io/badge/SWFestival-%F0%9F%92%97-orange?style=plastic&logo=appveyor/></div>
-<div align="center">2022 SW Festival Joseon DarkSoul 3D Action Game</div>
+<div align="center">2022 SW Festival Joseon DarkSoul 3D Action Game</div> 
 
-![finaltitle](https://user-images.githubusercontent.com/70145314/201518339-78b8d0d9-c78c-4a76-b23d-2956e329ccd9.png) 
+![화면 캡처 2022-11-21 193620](https://user-images.githubusercontent.com/70145314/203029512-80eedb34-1519-4991-8ea6-7c88780c5d13.png)
+
+
 
 
 - 🎥 [게임 Demo 보러가기](https://youtu.be/_UB4R-etXuI)
-- 🎮 [게임 소개 Notion 보러가기](https://www.notion.so/3c55b62f401e41a29a60dc6bb9c266d8)
 
 
 # 📁 개요 ➖
